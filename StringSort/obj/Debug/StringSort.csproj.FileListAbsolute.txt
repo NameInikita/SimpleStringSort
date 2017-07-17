@@ -1,0 +1,6 @@
+c:\users\nameinikita\documents\visual studio 2015\Projects\StringSort\StringSort\bin\Debug\StringSort.exe.config
+C:\Users\NameInikita\documents\visual studio 2015\Projects\StringSort\StringSort\bin\Debug\StringSort.exe
+C:\Users\NameInikita\documents\visual studio 2015\Projects\StringSort\StringSort\bin\Debug\StringSort.pdb
+C:\Users\NameInikita\documents\visual studio 2015\Projects\StringSort\StringSort\obj\Debug\StringSort.csprojResolveAssemblyReference.cache
+C:\Users\NameInikita\documents\visual studio 2015\Projects\StringSort\StringSort\obj\Debug\StringSort.exe
+C:\Users\NameInikita\documents\visual studio 2015\Projects\StringSort\StringSort\obj\Debug\StringSort.pdb
